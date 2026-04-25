@@ -1,2 +1,4 @@
-Flask==2.0.0
-Werkzeug==2.0.0
+Flask==1.0
+requests==2.19.0
+PyYAML==5.3
+Werkzeug==0.14
